@@ -1,0 +1,192 @@
+TF name	RORA
+Matrix ID	MA0071.1
+Collection	CORE
+TF class	['Nuclear receptors with C4 zinc fingers']
+TF family	['Thyroid hormone receptor-related factors (NR1)']
+Species	9606
+Taxonomic group	vertebrates
+Accession	['P35398']
+Data type used	SELEX
+Medline	7926749
+Comments	isoform type
+Matrix:
+        0      1      2      3      4      5      6      7      8      9
+A:  15.00   9.00   6.00  11.00  21.00   0.00   0.00   0.00   0.00  25.00
+C:   1.00   1.00  12.00   2.00   0.00   0.00   0.00   0.00  25.00   0.00
+G:   2.00   0.00   4.00   5.00   4.00  25.00  25.00   0.00   0.00   0.00
+T:   7.00  15.00   3.00   7.00   0.00   0.00   0.00  25.00   0.00   0.00
+
+
+
+TF name	RORA
+Matrix ID	MA0072.1
+Collection	CORE
+TF class	['Nuclear receptors with C4 zinc fingers']
+TF family	['Thyroid hormone receptor-related factors (NR1)']
+Species	9606
+Taxonomic group	vertebrates
+Accession	['P35398']
+Data type used	SELEX
+Medline	7926749
+Comments	TF has several motif variants.
+Matrix:
+        0      1      2      3      4      5      6      7      8      9     10     11     12     13
+A:   9.00  17.00  15.00  35.00  23.00   2.00   0.00  28.00   0.00   0.00   0.00   0.00  36.00  15.00
+C:   8.00   2.00   0.00   1.00   0.00  12.00   0.00   0.00   0.00   0.00   0.00  36.00   0.00   6.00
+G:   8.00   7.00   3.00   0.00   0.00  13.00   0.00   8.00  36.00  36.00   0.00   0.00   0.00  10.00
+T:  11.00  10.00  18.00   0.00  13.00   9.00  36.00   0.00   0.00   0.00  36.00   0.00   0.00   5.00
+
+
+
+TF name	Arntl
+Matrix ID	MA0603.1
+Collection	CORE
+TF class	['Basic helix-loop-helix factors (bHLH)']
+TF family	['PAS domain factors']
+Species	10090
+Taxonomic group	vertebrates
+Accession	['Q9WTL8']
+Data type used	PBM
+Medline	7592839
+Matrix:
+        0      1      2      3      4      5      6      7      8      9
+A: 251.00 246.00  62.00   3.00 953.00   2.00  48.00  54.00   9.00 255.00
+C: 229.00 125.00  44.00 997.00  16.00 965.00   3.00  58.00   4.00 331.00
+G: 261.00 558.00 143.00   0.00  10.00   9.00 946.00  51.00 938.00 146.00
+T: 259.00  71.00 752.00   0.00  21.00  24.00   3.00 837.00  48.00 268.00
+
+
+
+TF name	DBP
+Matrix ID	MA0639.1
+Collection	CORE
+TF class	['Basic leucine zipper factors (bZIP)']
+TF family	['CEBP-related']
+Species	9606
+Taxonomic group	vertebrates
+Accession	['Q10586']
+Data type used	HT-SELEX
+Medline	21458520
+Matrix:
+        0      1      2      3      4      5      6      7      8      9     10     11
+A: 1552.00 3706.00   5.00   4.00 7100.00   2.00 3180.00   3.00 7100.00 7100.00 158.00 2574.00
+C: 1714.00 1130.00   4.00   6.00   0.00 7100.00  17.00 541.00 288.00   1.00 3707.00 1657.00
+G: 1903.00 3393.00   2.00 602.00 498.00  21.00 7100.00   7.00   7.00   2.00 1543.00 1747.00
+T: 1930.00  93.00 7100.00 7100.00   4.00 2664.00   1.00 7100.00   6.00   2.00 3393.00 1122.00
+
+
+
+TF name	RORB
+Matrix ID	MA1150.1
+Collection	CORE
+TF class	['Nuclear receptors with C4 zinc fingers']
+TF family	['Thyroid hormone receptor-related factors (NR1)']
+Species	9606
+Taxonomic group	vertebrates
+Accession	['Q92753']
+Data type used	SMiLE-seq
+Medline	25500868
+Matrix:
+        0      1      2      3      4      5      6      7      8      9     10
+A: 785.00 526.00 233.00  53.00 602.00  16.00  32.00  28.00  47.00 896.00 205.00
+C:  14.00  26.00 162.00 165.00  14.00  25.00  13.00 146.00 781.00  15.00 326.00
+G:  29.00  24.00 201.00 235.00 358.00 907.00 928.00  50.00  17.00  63.00 145.00
+T: 172.00 425.00 403.00 547.00  26.00  52.00  27.00 776.00 155.00  26.00 324.00
+
+
+
+TF name	RORC
+Matrix ID	MA1151.1
+Collection	CORE
+TF class	['Nuclear receptors with C4 zinc fingers']
+TF family	['Thyroid hormone receptor-related factors (NR1)']
+Species	9606
+Taxonomic group	vertebrates
+Accession	['P51449']
+Data type used	SMiLE-seq
+Medline	25500868
+Matrix:
+        0      1      2      3      4      5      6      7      8      9     10     11
+A: 306.00 329.00 855.00 527.00 225.00  43.00 623.00   5.00  36.00  59.00   6.00 785.00
+C: 179.00 114.00  14.00  10.00 249.00  87.00  24.00   2.00   3.00 112.00 822.00  12.00
+G: 260.00 141.00  11.00  32.00 277.00 116.00 343.00 919.00 952.00 168.00  19.00 161.00
+T: 255.00 416.00 120.00 431.00 249.00 753.00  11.00  74.00   8.00 661.00 153.00  42.00
+
+
+
+TF name	NR1D1
+Matrix ID	MA1531.1
+Collection	CORE
+TF class	['Nuclear receptors with C4 zinc fingers']
+TF family	['Thyroid hormone receptor-related factors (NR1)']
+Species	9606
+Taxonomic group	vertebrates
+Accession	['P20393']
+Data type used	HT-SELEX
+Medline	14559106
+Comments	ONLY IF first 5 bp are removed!!!
+Matrix:
+        0      1      2      3      4      5      6      7      8      9     10     11     12     13     14
+A: 3233.00  16.00  51.00   0.00   0.00 6595.00 625.00  20.00 3576.00   0.00   8.00 213.00   1.00 6595.00 1674.00
+C: 358.00   2.00   0.00 206.00 6595.00   2.00 1241.00 117.00  92.00   0.00   0.00 429.00 6595.00   4.00 1532.00
+G: 3362.00 6595.00 6595.00 1647.00   2.00   2.00 4428.00 213.00 3018.00 6595.00 6595.00 700.00  89.00 917.00 1809.00
+T:  43.00 723.00  12.00 6595.00 4243.00   7.00 301.00 6595.00  11.00 1113.00   6.00 6595.00 344.00  20.00 1580.00
+
+
+
+TF name	NFIL3
+Matrix ID	MA0025.2
+Collection	CORE
+TF class	['Basic leucine zipper factors (bZIP)']
+TF family	['CEBP-related']
+Species	9606
+Taxonomic group	vertebrates
+Accession	['Q16649']
+Data type used	ChIP-seq
+Medline	9122243
+Matrix:
+        0      1      2      3      4      5      6      7      8      9     10     11     12
+A: 6368.00 9041.00 870.00 468.00 21353.00 659.00 1460.00 1358.00 21848.00 21911.00 2193.00 7671.00 6692.00
+C: 3904.00 3896.00 681.00 208.00 220.00 1511.00 467.00 12004.00 543.00 251.00 4959.00 5630.00 4929.00
+G: 5615.00 7261.00 518.00 1714.00 990.00 492.00 20459.00 454.00 171.00 360.00 2701.00 4152.00 4482.00
+T: 7109.00 2798.00 20927.00 20606.00 433.00 20334.00 610.00 9180.00 434.00 474.00 13143.00 5543.00 6893.00
+
+
+
+TF name	CLOCK
+Matrix ID	MA0819.2
+Collection	CORE
+TF class	['Basic helix-loop-helix factors (bHLH)']
+TF family	['PAS domain factors']
+Species	9606
+Taxonomic group	vertebrates
+Accession	['O15516']
+Data type used	CAP-SELEX
+Medline	24591654
+Matrix:
+        0      1      2      3      4      5      6      7      8      9
+A: 2009.00 2009.00 2009.00 146.00 2009.00   0.00 244.00   7.00   5.00 129.00
+C: 1278.00 587.00 584.00 2009.00   3.00 2009.00  11.00  87.00   1.00 1065.00
+G: 1351.00 1287.00 383.00   0.00  52.00   4.00 2009.00   6.00 2009.00 913.00
+T: 1106.00 895.00  89.00   0.00   0.00 302.00   0.00 2009.00  52.00 944.00
+
+
+
+TF name	NR1D2
+Matrix ID	MA1532.2
+Collection	CORE
+TF class	['Nuclear receptors with C4 zinc fingers']
+TF family	['Thyroid hormone receptor-related factors (NR1)']
+Species	9606
+Taxonomic group	vertebrates
+Accession	['Q14995']
+Data type used	HT-SELEX
+Medline	14559106
+Matrix:
+        0      1      2      3      4      5      6      7      8      9     10     11     12     13     14
+A: 804.00 29828.00  66.00 107.00  28.00  26.00 60895.00 3894.00  67.00 44879.00  63.00 262.00 1549.00  42.00 56565.00
+C: 1877.00 939.00  85.00  20.00 481.00 30265.00   0.00 7626.00 466.00 439.00  25.00  81.00 2348.00 56830.00  44.00
+G: 5429.00 30693.00 58866.00 60974.00 4341.00  13.00   2.00 50343.00 969.00 40772.00 57509.00 61054.00 5189.00 924.00 9354.00
+T: 57431.00 256.00 4734.00  37.00 58858.00 30822.00 309.00 2922.00 60489.00 127.00 13104.00  69.00 57177.00 7273.00 538.00
+
+
